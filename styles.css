@@ -126,3 +126,37 @@ body, .header {
   font-size: 20px;
   font-weight: bold;
 }
+
+/* button section */
+.button-section {
+  display: flex;
+  background-color: #3882F6;
+  margin: 100px 200px;
+  border-radius: 8px;
+  height: 130px;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.button-section .title {
+  font-size: 20px;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.button-section .description {
+  font-size: 16px;
+  color: white;
+}
+
+.button-section button {
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  border: 2px solid white;
+  background-color: #3882F6;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
