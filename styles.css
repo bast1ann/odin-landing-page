@@ -160,3 +160,14 @@ body, .header {
   font-weight: bold;
   color: white;
 }
+
+/* footer */
+.footer {
+  background-color: #1F2937;
+  color: white;
+  font-size: 14px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
