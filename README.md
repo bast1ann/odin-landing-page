@@ -1,1 +1,1 @@
-# odin-landing-page
+In this project I'm going to apply what I've learned up to this moment with The Odin Project, that is, HTML, CSS and Flexbox.
