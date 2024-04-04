@@ -39,6 +39,17 @@ body, .header {
   gap: 50px;
 }
 
+.header-content button{
+  height: 30px;
+  width: 100px;
+  border-radius: 8px;
+  background-color: #3882F6;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid #1F2937;
+}
+
 .header-content img {
   border: 2px solid white;
   border-radius: 15px;
@@ -162,7 +173,7 @@ body, .header {
 .button-section button {
   height: 30px;
   width: 100px;
-  border-radius: 5px;
+  border-radius: 8px;
   border: 2px solid white;
   background-color: #3882F6;
   font-size: 14px;
